@@ -1,11 +1,11 @@
 {
-  "name": "mashape/unirest-php",
+  "name": "wngur6076/wngurest-php80",
   "description": "Unirest PHP",
   "keywords": ["rest", "curl", "http", "https", "client"],
   "type": "library",
   "homepage": "https://github.com/Mashape/unirest-php",
   "license": "MIT",
-  "author": "Mashape <opensource@mashape.com> (https://www.mashape.com)",
+  "author": "wngur6076",
   "require": {
     "php": ">=5.4.0",
     "ext-curl": "*"
@@ -23,6 +23,6 @@
     }
   },
   "support": {
-    "email": "opensource@mashape.com"
+    "email": "wngur6076@naver.com"
   }
 }
